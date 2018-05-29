@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/remote-procedure-call.iml" filepath="$PROJECT_DIR$/remote-procedure-call.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remote-procedure-call-api/remote-procedure-call-api.iml" filepath="$PROJECT_DIR$/remote-procedure-call-api/remote-procedure-call-api.iml" />
     </modules>
   </component>
 </project>

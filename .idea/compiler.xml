@@ -22,11 +22,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="remote-procedure-call" />
+        <module name="remote-procedure-call-api" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="remote-procedure-call" target="1.5" />
+      <module name="remote-procedure-call-api" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
